@@ -20,5 +20,6 @@ def find_new_list():
             new_list.append(list1[i])
     return new_list
 
+x=1
 
 print(find_new_list())
